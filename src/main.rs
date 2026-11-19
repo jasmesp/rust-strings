@@ -7,7 +7,8 @@ fn main() {
     stdin().read_line(&mut x).unwrap();
     println!("x: {}", x);
     if (x.contains(("winter"))) {
-println!("o yah thur bud");}
+println!("o yah thur bud");
 }else{
-    println!("no try minjeong!");
+    println!("no, try minjeong!");
+} 
 }
